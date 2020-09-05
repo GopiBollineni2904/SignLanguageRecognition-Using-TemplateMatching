@@ -1,2 +1,2 @@
 # SignLanguageRecognition-Using-TemplateMatching
-#TEST
+
